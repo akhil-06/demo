@@ -1,0 +1,42 @@
+#heading1{
+  color: blue;
+  font-size: 60px;
+  background-color: black;
+}
+
+/* direct name
+rgb (0-255)
+hexcode
+rgba(0-1)
+hsl
+hsla */
+
+#heading2 {
+  background-color: #873a3a;
+  color: blue;
+}
+
+.para1{
+    background-color: aqua;
+    font-size: 25px;
+}
+
+/* p {
+  color: blueviolet;
+  background-color: antiquewhite;
+} */
+
+a {
+  text-decoration: none;
+}
+
+/* 
+1. inline
+2. internal
+3. external 
+
+inline > internal > extrnal
+
+
+id>class>type selector
+*/
